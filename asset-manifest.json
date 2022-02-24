@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/yusuf963/roseup.git/static/css/main.073c9b0a.css",
+    "main.js": "/yusuf963/roseup.git/static/js/main.c346e55c.js",
+    "static/js/787.ea2be584.chunk.js": "/yusuf963/roseup.git/static/js/787.ea2be584.chunk.js",
+    "static/media/logo.svg": "/yusuf963/roseup.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yusuf963/roseup.git/index.html",
+    "main.073c9b0a.css.map": "/yusuf963/roseup.git/static/css/main.073c9b0a.css.map",
+    "main.c346e55c.js.map": "/yusuf963/roseup.git/static/js/main.c346e55c.js.map",
+    "787.ea2be584.chunk.js.map": "/yusuf963/roseup.git/static/js/787.ea2be584.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.c346e55c.js"
+  ]
+}
